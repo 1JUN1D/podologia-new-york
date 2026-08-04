@@ -394,7 +394,7 @@ foot doctor
 
 - [ ] Subir las 2 landings + `landing.css` + carpeta `/assets` (logo.webp, Video1.mp4, Video3.mp4, portada1.webp, portada3.webp) al hosting
 - [ ] Reemplazar `https://ejemplo.com/...` en el JSON-LD de ambas landings por el dominio real
-- [ ] Verificar que el clic a WhatsApp dispara la conversión `AW-18125589998/csHlCI_5qtscEO6b-sJD` (usar el Tag Assistant)
+- [ ] Verificar que el clic a WhatsApp dispara la conversión `AW-17893422386/GG5lCNX1j9wcELLqn9RC` (usar el Tag Assistant)
 - [ ] Confirmar que el número (475) 370-0365 tiene **WhatsApp Business** activo con mensaje de bienvenida en español
 - [ ] Idioma de campaña: español **e** inglés
 - [ ] Presencia de ubicación: "personas que se encuentran en" (no "interesadas en")
