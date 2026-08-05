@@ -34,7 +34,7 @@
   "description":"Servicio de podología a domicilio en Fairfield County, New Haven County, Westchester y Putnam County. Atención en español, sin seguro médico ni referido.",
   "url":"https://ejemplo.com/landing-podologa-domicilio.html",
   "telephone":"+1-475-370-0365",
-  "priceRange":"$$",
+  "priceRange":"$150-$750",
   "currenciesAccepted":"USD",
   "knowsLanguage":["es","en"],
   "availableLanguage":["Spanish","English"],
@@ -69,14 +69,11 @@
     "@type":"OfferCatalog",
     "name":"Servicios de podología a domicilio",
     "itemListElement":[
-        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Podología general a domicilio"}},
-        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Cuidado del pie diabético"}},
-        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Retiro de callos y durezas"}},
-        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Tratamiento de hongos en las uñas"}},
-        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Uña encarnada (uñero)"}},
-        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Corte de uñas para adultos mayores"}},
-        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Talones agrietados"}},
-        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Pedicura clínica a domicilio"}}
+        {"@type":"Offer","priceCurrency":"USD","price":"150","itemOffered":{"@type":"Service","name":"Pedicure clínico a domicilio"}},
+        {"@type":"Offer","priceCurrency":"USD","price":"275","itemOffered":{"@type":"Service","name":"Onicocriptosis parcial (1 lateral) - uña encarnada"}},
+        {"@type":"Offer","priceCurrency":"USD","price":"337.50","itemOffered":{"@type":"Service","name":"Onicocriptosis bilateral - uña encarnada ambos laterales"}},
+        {"@type":"Offer","priceCurrency":"USD","price":"250","itemOffered":{"@type":"Service","name":"Tratamiento para onicomicosis (sin medicamentos)"}},
+        {"@type":"Offer","priceCurrency":"USD","price":"750","itemOffered":{"@type":"Service","name":"Tratamiento de verrugas plantares (3 sesiones)"}}
     ]
   },
   "contactPoint":{
@@ -712,68 +709,75 @@ body{ background:var(--cream); color:var(--text-dark); }
 <section class="section bg-white" id="servicios">
   <div class="container">
     <div class="section-header section-header--center">
-      <span class="section-eyebrow">Podología a domicilio</span>
-      <h2 class="section-h2">Todo lo que una <em>podóloga a domicilio</em> puede hacer por tus pies</h2>
-      <p class="section-lead">Llegamos con el equipo completo: instrumental esterilizado, fresadora y todo lo necesario para dejar tus pies atendidos en la comodidad de tu casa, sin que tengas que salir a ningún lado.</p>
+      <span class="section-eyebrow">Servicios y precios</span>
+      <h2 class="section-h2">Precios claros de <em>podología a domicilio</em>, sin sorpresas</h2>
+      <p class="section-lead">Estos son los tratamientos que hacemos en tu casa, con instrumental esterilizado y material desechable. El precio que ves es el precio que pagas: no cobramos consulta aparte ni visita.</p>
     </div>
-    <div class="services-compact">
-      <div class="service-pill">
-        <div class="service-pill__icon">🦶</div>
-        <div class="service-pill__text">
-          <strong>Podología general de mantención</strong>
-          <span>Corte técnico, limpieza y cuidado completo</span>
+    <div class="pricing-grid">
+      <div class="price-card">
+        <div class="price-card__icon">💅</div>
+        <h3 class="price-card__name">Pedicure clínico</h3>
+        <p class="price-card__desc">Corte técnico de uñas, retiro de callos y durezas, limado y limpieza profunda. Higiene y estética con criterio profesional, en tu casa.</p>
+        <div class="price-card__footer">
+          <div class="price-card__price">$150<small>por sesión</small></div>
+          <a class="price-card__cta" href="https://wa.me/14753700365?text=Hola%20Alix%2C%20quiero%20agendar%20un%20pedicure%20cl%C3%ADnico%20a%20domicilio.%20Vivo%20en%3A%20" target="_blank" rel="noopener">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.2-1.7-.8-2-.9-.3-.1-.5-.2-.7.1-.2.3-.7.9-.9 1.1-.2.2-.3.2-.6.1-.3-.2-1.2-.5-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.3-.5 0-.2 0-.4 0-.5 0-.2-.7-1.6-.9-2.2-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.2.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.2-.3-.2-.6-.4zM12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2z"/></svg>
+            Agendar
+          </a>
         </div>
       </div>
-      <div class="service-pill">
-        <div class="service-pill__icon">🩹</div>
-        <div class="service-pill__text">
-          <strong>Uña encarnada (uñero)</strong>
-          <span>Alivio del borde que se clava en la piel</span>
+      <div class="price-card">
+        <span class="price-card__badge">Más pedido</span>
+        <div class="price-card__icon">🩹</div>
+        <h3 class="price-card__name">Onicocriptosis parcial — 1 lateral</h3>
+        <p class="price-card__desc">Uña encarnada en un solo borde del dedo. Retiramos la espícula que se está clavando, limpiamos el canal y desinfectamos. <strong>Incluye anestesia tópica.</strong></p>
+        <div class="price-card__footer">
+          <div class="price-card__price">$275<small>por dedo, 1 lateral</small></div>
+          <a class="price-card__cta" href="https://wa.me/14753700365?text=Hola%20Alix%2C%20tengo%20una%20u%C3%B1a%20encarnada%20(un%20lado)%20y%20quiero%20agendar.%20Vivo%20en%3A%20" target="_blank" rel="noopener">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.2-1.7-.8-2-.9-.3-.1-.5-.2-.7.1-.2.3-.7.9-.9 1.1-.2.2-.3.2-.6.1-.3-.2-1.2-.5-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.3-.5 0-.2 0-.4 0-.5 0-.2-.7-1.6-.9-2.2-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.2.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.2-.3-.2-.6-.4zM12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2z"/></svg>
+            Agendar
+          </a>
         </div>
       </div>
-      <div class="service-pill">
-        <div class="service-pill__icon">🔬</div>
-        <div class="service-pill__text">
-          <strong>Hongos en las uñas</strong>
-          <span>Uñas gruesas, amarillas o quebradizas</span>
+      <div class="price-card">
+        <div class="price-card__icon">🦶</div>
+        <h3 class="price-card__name">Onicocriptosis bilateral</h3>
+        <p class="price-card__desc">Uña encarnada en los dos bordes del mismo dedo. Tratamiento completo de ambos laterales en una sola visita. <strong>Incluye anestesia tópica.</strong></p>
+        <div class="price-card__footer">
+          <div class="price-card__price">$337.50<small>por dedo, ambos laterales</small></div>
+          <a class="price-card__cta" href="https://wa.me/14753700365?text=Hola%20Alix%2C%20tengo%20una%20u%C3%B1a%20encarnada%20en%20los%20dos%20lados%20y%20quiero%20agendar.%20Vivo%20en%3A%20" target="_blank" rel="noopener">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.2-1.7-.8-2-.9-.3-.1-.5-.2-.7.1-.2.3-.7.9-.9 1.1-.2.2-.3.2-.6.1-.3-.2-1.2-.5-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.3-.5 0-.2 0-.4 0-.5 0-.2-.7-1.6-.9-2.2-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.2.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.2-.3-.2-.6-.4zM12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2z"/></svg>
+            Agendar
+          </a>
         </div>
       </div>
-      <div class="service-pill">
-        <div class="service-pill__icon">💉</div>
-        <div class="service-pill__text">
-          <strong>Cuidado del pie diabético</strong>
-          <span>Corte seguro y revisión preventiva</span>
+      <div class="price-card">
+        <div class="price-card__icon">🔬</div>
+        <h3 class="price-card__name">Tratamiento para onicomicosis</h3>
+        <p class="price-card__desc">Hongos en las uñas: uñas gruesas, amarillas o quebradizas. Fresado y desinfección de la lámina ungueal. <strong>Sin medicamentos incluidos.</strong></p>
+        <div class="price-card__footer">
+          <div class="price-card__price">$250<small>por sesión</small></div>
+          <a class="price-card__cta" href="https://wa.me/14753700365?text=Hola%20Alix%2C%20tengo%20hongos%20en%20las%20u%C3%B1as%20y%20quiero%20agendar.%20Vivo%20en%3A%20" target="_blank" rel="noopener">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.2-1.7-.8-2-.9-.3-.1-.5-.2-.7.1-.2.3-.7.9-.9 1.1-.2.2-.3.2-.6.1-.3-.2-1.2-.5-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.3-.5 0-.2 0-.4 0-.5 0-.2-.7-1.6-.9-2.2-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.2.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.2-.3-.2-.6-.4zM12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2z"/></svg>
+            Agendar
+          </a>
         </div>
       </div>
-      <div class="service-pill">
-        <div class="service-pill__icon">🩺</div>
-        <div class="service-pill__text">
-          <strong>Callos y durezas</strong>
-          <span>Retiro profesional para caminar cómodo</span>
-        </div>
-      </div>
-      <div class="service-pill">
-        <div class="service-pill__icon">👵</div>
-        <div class="service-pill__text">
-          <strong>Adultos mayores</strong>
-          <span>Corte de uñas en casa, con paciencia</span>
-        </div>
-      </div>
-      <div class="service-pill">
-        <div class="service-pill__icon">⚡</div>
-        <div class="service-pill__text">
-          <strong>Talones agrietados</strong>
-          <span>Piel reseca, grietas y descamación</span>
-        </div>
-      </div>
-      <div class="service-pill">
-        <div class="service-pill__icon">💅</div>
-        <div class="service-pill__text">
-          <strong>Pedicura clínica</strong>
-          <span>Higiene y estética con criterio profesional</span>
+      <div class="price-card">
+        <span class="price-card__badge">Paquete</span>
+        <div class="price-card__icon">⚡</div>
+        <h3 class="price-card__name">Verrugas plantares</h3>
+        <p class="price-card__desc">Tratamiento completo de verruga plantar (ojo de pescado) en 3 sesiones, con seguimiento entre cada visita hasta resolver la lesión.</p>
+        <div class="price-card__footer">
+          <div class="price-card__price">$750<small>paquete de 3 sesiones</small></div>
+          <a class="price-card__cta" href="https://wa.me/14753700365?text=Hola%20Alix%2C%20tengo%20una%20verruga%20plantar%20y%20quiero%20agendar.%20Vivo%20en%3A%20" target="_blank" rel="noopener">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.2-1.7-.8-2-.9-.3-.1-.5-.2-.7.1-.2.3-.7.9-.9 1.1-.2.2-.3.2-.6.1-.3-.2-1.2-.5-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.3-.5 0-.2 0-.4 0-.5 0-.2-.7-1.6-.9-2.2-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.2.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.2-.3-.2-.6-.4zM12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2z"/></svg>
+            Agendar
+          </a>
         </div>
       </div>
     </div>
+    <p class="pricing-note">Precios en dólares (USD), por visita a domicilio en Connecticut y Westchester NY. Si no estás segura de qué necesitas, <a href="https://wa.me/14753700365?text=Hola%20Alix%2C%20le%20mando%20una%20foto%20para%20que%20me%20diga%20qu%C3%A9%20necesito%20y%20cu%C3%A1nto%20cuesta." target="_blank" rel="noopener">mándanos una foto por WhatsApp</a> y te decimos exactamente qué corresponde y cuánto cuesta, sin compromiso.</p>
   </div>
 </section>
 
