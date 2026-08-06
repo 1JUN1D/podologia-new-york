@@ -138,23 +138,24 @@ Greenwich · New Canaan · Darien · Wilton · Scarsdale · Rye · Rye Brook · 
 
 | # | Título | Car. |
 |---|---|---|
-| 1 | Podóloga a Domicilio | 20 |
-| 2 | Podóloga Habla Español | 22 |
-| 3 | Podóloga a Domicilio en CT | 26 |
+| 1 | Podóloga a domicilio | 20 |
+| 2 | Podóloga que habla español | 26 |
+| 3 | Podóloga a domicilio en CT | 26 |
 | 4 | Podóloga en Westchester NY | 26 |
-| 5 | Cuidado de Pies en Tu Casa | 26 |
-| 6 | Vamos Hasta Tu Casa | 19 |
-| 7 | Sin Seguro Médico ni Citas | 26 |
-| 8 | Callos, Durezas y Hongos | 24 |
-| 9 | Pie Diabético a Domicilio | 25 |
-| 10 | Uñas de Adulto Mayor | 20 |
-| 11 | Atención 100% en Español | 24 |
-| 12 | Agenda Por WhatsApp | 19 |
-| 13 | Podóloga Cerca de Ti | 20 |
-| 14 | Bridgeport · Danbury · CT | 25 |
-| 15 | Consulta Sin Compromiso | 23 |
+| 5 | Cuidado de pies en tu casa | 26 |
+| 6 | Vamos hasta tu casa | 19 |
+| 7 | Sin seguro médico ni citas | 26 |
+| 8 | Callos, durezas y hongos | 24 |
+| 9 | Pie diabético a domicilio | 25 |
+| 10 | Uñas de adulto mayor | 20 |
+| 11 | Te atendemos en español | 23 |
+| 12 | Agenda por WhatsApp | 19 |
+| 13 | Podóloga cerca de ti | 20 |
+| 14 | Bridgeport, Danbury y más | 25 |
+| 15 | Consulta sin compromiso | 23 |
 
 > **Fija (pin) el título 1 en Posición 1** y el título 12 en Posición 3. El resto libre.
+> ⚠️ **Capitalización en minúscula española obligatoria** — ver §8.
 
 ### 3.4 Descripciones
 
@@ -169,12 +170,12 @@ Greenwich · New Canaan · Darien · Wilton · Scarsdale · Rye · Rye Brook · 
 
 | Título (≤25) | Descripción 1 (≤35) | Descripción 2 (≤35) | URL |
 |---|---|---|---|
-| Cuidado de Pie Diabético | Corte seguro y revisión | Todo dentro de tu casa | `.../landing-podologa-domicilio.html#servicios` |
-| Callos y Durezas | Retiro profesional del callo | Vuelve a caminar cómodo | `.../landing-podologa-domicilio.html#servicios` |
-| Hongos en las Uñas | Uñas gruesas y amarillas | Tratamiento a domicilio | `.../landing-podologa-domicilio.html#servicios` |
-| Uñas de Adulto Mayor | Corte en casa, con paciencia | Ideal si ya no se agacha | `.../landing-podologa-domicilio.html#servicios` |
-| Zonas Que Cubrimos | Fairfield y New Haven, CT | Westchester y Putnam, NY | `.../landing-podologa-domicilio.html#zonas` |
-| Agenda Por WhatsApp | Te respondemos en español | Cupos esta misma semana | `https://wa.me/14753700365` |
+| Cuidado del pie diabético | Corte seguro y revisión | Todo dentro de tu casa | `.../landing-podologa-domicilio.html#servicios` |
+| Callos y durezas | Retiro profesional del callo | Vuelve a caminar cómodo | `.../landing-podologa-domicilio.html#servicios` |
+| Hongos en las uñas | Uñas gruesas y amarillas | Tratamiento a domicilio | `.../landing-podologa-domicilio.html#servicios` |
+| Uñas de adulto mayor | Corte en casa, con paciencia | Ideal si ya no se agacha | `.../landing-podologa-domicilio.html#servicios` |
+| Zonas que cubrimos | Fairfield y New Haven, CT | Westchester y Putnam, NY | `.../landing-podologa-domicilio.html#zonas` |
+| Agenda por WhatsApp | Te respondemos en español | Cupos esta misma semana | `https://wa.me/14753700365` |
 
 ---
 
@@ -259,23 +260,24 @@ Greenwich · New Canaan · Darien · Wilton · Scarsdale · Rye · Rye Brook · 
 
 | # | Título | Car. |
 |---|---|---|
-| 1 | Uña Encarnada a Domicilio | 25 |
-| 2 | Alivio del Dolor Hoy Mismo | 26 |
-| 3 | Tratamiento de Uñero | 20 |
-| 4 | Uña Enterrada del Pie | 21 |
-| 5 | Vamos Hasta Tu Casa | 19 |
-| 6 | Podóloga Habla Español | 22 |
-| 7 | Sin Seguro ni Referido | 22 |
-| 8 | Uña Encarnada en CT y NY | 24 |
-| 9 | Alivio Desde la 1ª Visita | 25 |
-| 10 | Uñero Hinchado o Con Pus | 24 |
-| 11 | Atención el Mismo Día | 21 |
-| 12 | Mándanos Una Foto | 17 |
-| 13 | Uña Encarnada Cerca de Ti | 25 |
-| 14 | Dedo Gordo Inflamado | 20 |
-| 15 | Consulta Sin Compromiso | 23 |
+| 1 | Uña encarnada a domicilio | 25 |
+| 2 | Alivio del dolor hoy mismo | 26 |
+| 3 | Tratamiento de uñero | 20 |
+| 4 | Uña enterrada del pie | 21 |
+| 5 | Vamos hasta tu casa | 19 |
+| 6 | Podóloga que habla español | 26 |
+| 7 | Sin seguro ni referido | 22 |
+| 8 | Uña encarnada en CT y NY | 24 |
+| 9 | Alivio en la primera visita | 27 |
+| 10 | Uñero hinchado o con pus | 24 |
+| 11 | Atención el mismo día | 21 |
+| 12 | Mándanos una foto | 17 |
+| 13 | Uña encarnada cerca de ti | 25 |
+| 14 | Dedo gordo inflamado | 20 |
+| 15 | Consulta sin compromiso | 23 |
 
 > **Fija el título 1 en Posición 1** y el título 2 en Posición 2.
+> ⚠️ **Capitalización en minúscula española obligatoria** — ver §8.
 
 ### 4.4 Descripciones
 
@@ -290,12 +292,12 @@ Greenwich · New Canaan · Darien · Wilton · Scarsdale · Rye · Rye Brook · 
 
 | Título (≤25) | Descripción 1 (≤35) | Descripción 2 (≤35) | URL |
 |---|---|---|---|
-| Uñero Con Pus | Rojo, hinchado y con dolor | Mándanos la foto hoy | `.../landing-una-encarnada-domicilio.html#tratamiento` |
-| Uña Enterrada del Pie | El dedo gordo que te duele | Alivio en una sola visita | `.../landing-una-encarnada-domicilio.html#tratamiento` |
-| Cómo Es el Proceso | Revisamos y tratamos ahí | Sin salir de tu casa | `.../landing-una-encarnada-domicilio.html#tratamiento` |
-| Para Que No Vuelva | Corte correcto y calzado | Te enseñamos cómo hacerlo | `.../landing-una-encarnada-domicilio.html#tratamiento` |
-| Zonas Que Cubrimos | Fairfield y New Haven, CT | Westchester y Putnam, NY | `.../landing-una-encarnada-domicilio.html#zonas` |
-| Agenda Por WhatsApp | Te respondemos en español | Atención el mismo día | `https://wa.me/14753700365` |
+| Uñero con pus | Rojo, hinchado y con dolor | Mándanos la foto hoy | `.../landing-una-encarnada-domicilio.html#tratamiento` |
+| Uña enterrada del pie | El dedo gordo que te duele | Alivio en una sola visita | `.../landing-una-encarnada-domicilio.html#tratamiento` |
+| Cómo es el proceso | Revisamos y tratamos ahí | Sin salir de tu casa | `.../landing-una-encarnada-domicilio.html#tratamiento` |
+| Para que no vuelva | Corte correcto y calzado | Te enseñamos cómo hacerlo | `.../landing-una-encarnada-domicilio.html#tratamiento` |
+| Zonas que cubrimos | Fairfield y New Haven, CT | Westchester y Putnam, NY | `.../landing-una-encarnada-domicilio.html#zonas` |
+| Agenda por WhatsApp | Te respondemos en español | Atención el mismo día | `https://wa.me/14753700365` |
 
 ---
 
@@ -394,9 +396,47 @@ foot doctor
 
 - [ ] Subir las 2 landings + `landing.css` + carpeta `/assets` (logo.webp, Video1.mp4, Video3.mp4, portada1.webp, portada3.webp) al hosting
 - [ ] Reemplazar `https://ejemplo.com/...` en el JSON-LD de ambas landings por el dominio real
-- [ ] Verificar que el clic a WhatsApp dispara la conversión `AW-17893422386/GG5lCNX1j9wcELLqn9RC` (usar el Tag Assistant)
+- [ ] Verificar que el clic a WhatsApp dispara la conversión `AW-18125589998/csHlCI_5qtscEO6b-sJD` (usar el Tag Assistant)
 - [ ] Confirmar que el número (475) 370-0365 tiene **WhatsApp Business** activo con mensaje de bienvenida en español
 - [ ] Idioma de campaña: español **e** inglés
 - [ ] Presencia de ubicación: "personas que se encuentran en" (no "interesadas en")
 - [ ] Excluir NYC
 - [ ] Cargar los negativos de §6 **antes** de activar
+
+---
+
+## 8. ⚠️ CORRECCIÓN — Error "No cumple las directrices editoriales" (×15)
+
+### Diagnóstico
+Los **15 errores = tus 15 títulos**. Ninguna descripción fue rechazada. Eso descarta que sea un problema del contenido y apunta a una sola cosa: **la capitalización**.
+
+La primera versión de los títulos estaba en *Title Case* inglés (`Podóloga a Domicilio en CT`). La política editorial de Google prohíbe el **"uso de mayúsculas incorrecto o sin relación con su finalidad"**, y en español lo correcto es minúscula salvo la primera palabra y los nombres propios. Capitalizar cada palabra es una convención del inglés y los revisores de anuncios en español la rechazan.
+
+Se suman dos detonantes menores, ambos ya eliminados:
+- El símbolo **`·`** en `Bridgeport · Danbury · CT` → "signos o símbolos que no se usan de acuerdo con su finalidad".
+- El ordinal volado **`1ª`** en `Alivio Desde la 1ª Visita` → superíndice no estándar.
+- El **`100%`** de `Atención 100% en Español` → cifra sin respaldo verificable en la landing.
+
+### Solución
+Los títulos y sitelinks de §3.3, §3.5, §4.3 y §4.5 **ya están corregidos en este documento**: minúscula española, sin `·`, sin `1ª`, sin `%`. Bórralos en Google Ads y pégalos de nuevo desde aquí. La aprobación suele tardar entre unos minutos y 24 horas.
+
+> **Regla para el futuro:** en español escribe los títulos como escribirías una frase normal. `Podóloga a domicilio en CT` ✅ — `Podóloga A Domicilio En CT` ❌.
+
+---
+
+## 9. 🚨 Problemas de configuración detectados en tu campaña
+
+Además del error editorial, tu pantalla de revisión muestra ajustes que te van a quemar el presupuesto. Corrígelos **antes** de publicar:
+
+| Ajuste actual | Problema | Qué poner |
+|---|---|---|
+| **Ubicaciones: Todos los países y territorios** | 🔴 **Crítico.** Vas a pagar clics de Colombia, México, España… Tu servicio solo llega a CT y NY. | Los pueblos de §2, cargados como radios. Excluir NYC. |
+| **Idiomas: Español** | Dejas fuera a los latinos con el teléfono/navegador en inglés, que son muchísimos allá. | Español **e** Inglés. |
+| **IA Max con Expansión de URL final activada** | Google reescribe tus títulos y manda el tráfico a otras URLs de tu sitio. Con solo 2 landings no tiene sentido y rompe la coherencia keyword→landing. | Desactivar Expansión de URL final y Personalización de texto. |
+| **Correspondencia de términos de búsqueda ("amplía tus keywords con IA")** | Convierte tus exactas y de frase en amplia encubierta. Es la causa #1 de gasto en búsquedas basura. | Desactivar. |
+| **66 keywords en 1 solo grupo con 1 anuncio** | Mezclaste los dos grupos. El que busca "uñero" aterriza en la landing genérica y no convierte. | Separar en los 2 grupos de §3 y §4, cada uno con su landing y su anuncio. |
+| **Sin enlaces de sitio** | Es la recomendación que te muestra Google. | Los 6 sitelinks de §3.5 y §4.5. |
+| **Presupuesto: 139.408 COP/día** (≈ 35 USD) | No está mal, pero el CPC en EE.UU. es alto. Repartido en 40 pueblos no alcanza para nada. | Arranca **solo con los pueblos de prioridad ALTA** de §2 hasta tener datos. |
+| **Puja: Maximizar conversiones** | Sin historial de conversiones Google puja a ciegas y gasta rápido. | Maximizar clics con CPC máx. tope (~$3–4 USD) las primeras 2 semanas. |
+
+> **Antes de darle publicar, verifica que la conversión de clic a WhatsApp esté registrando.** Si Maximizar conversiones no recibe señales, la campaña gasta sin aprender.
